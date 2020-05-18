@@ -1,5 +1,7 @@
 > 此为Numpy学习笔记
 
+ [View Note](https://gaoyubest.github.io/GyHelloPython/GyHelloNumpy)
+
 - [01_创建数组](./01_创建数组.html)
 - [02_数据调整](./02_数据调整.html)
 - [03_索引_切片_迭代](03_索引_切片_迭代.html)
