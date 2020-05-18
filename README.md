@@ -1,3 +1,9 @@
+> 此为Numpy学习笔记
+> 代码参考https://github.com/zhmhbest/HelloNumpy。如若转载，请注明出处。
+> 学习书籍：《python数据分析师修炼之道》清华大学出版社
+> 《Python数据分析与大数据处理从入门到精通》北京大学出版社
+
+
 # Numpy
 - **安装numpy**
 ```py
