@@ -3,12 +3,25 @@
  - [View Notes](https://gaoyubest.github.io/GyHelloPython/)
  - [View Repository](https://github.com/gaoyubest/GyHelloPython)
 
+
+## 目录
+
+- [Matplotlib](./GyHelloMatplotlib)
+- [Numpy](./GyHelloNumpy)
+- [Pandas](./GyHelloPandas)
+
 ## 说明
 
 -  此仓库为`Python`、`Numpy`、`Pandas`、`Matplotlib`、`Seaborn`笔记
 - 代码参考[HelloDataAnalysis](https://zhmhbest.github.io/HelloDataAnalysis/notes/index.html)。如若转载，请注明出处。
-- 学习书籍：《Python数据分析师修炼之道》清华大学出版社
-- 《Python数据分析与大数据处理从入门到精通》北京大学出版社 
+- 学习书籍：
+> - 《Python数据分析师修炼之道》清华大学出版社
+> 源码下载：https://www.packtpub.com/，注册发送邮箱
+> 或 https://github.com/PacktPublishing/Become-a-Python-Data-Analyst
+>- 《Python数据分析与大数据处理从入门到精通》北京大学出版社 
+
+# 下载
+- [下载Anaconda](https://www.anaconda.com/products/individual)
 
 <!-- - **Excel数据**
     - 文件后缀名”.xls”或".xlsx"。
@@ -24,8 +37,4 @@
     - 全称：Comma-Sepd Values
     - 以逗号为分隔符存储表格数据，采用纯文本形式。   -->
 
-## 目录
 
-- [Matplotlib](./GyHelloMatplotlib)
-- [Numpy](./GyHelloNumpy)
-- [Pandas](./GyHelloPandas)

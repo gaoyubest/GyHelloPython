@@ -21,7 +21,7 @@ pip install numpy
 ```py
 import numpy as np
 ```
-- Numpy的**数组对象**是ndarry，一个ndarry内的数据类型相同，由正整数作为索引。数组的维度称为“**轴**”
+- Numpy的**数组对象**是齐次多维数组ndarry，一个ndarry内的数据类型相同，由正整数作为索引。数组的维度称为“**轴axe**”，轴数或维度称为数组的**秩**或**维数**
 
 - **ndarry的属性**
 ```python
